@@ -13,4 +13,6 @@
 ![Hello Mobile](screenshots/hello-mobile.png)
 
 ## Identitas
-Nama, NIM, kelas
+- Rifaldo Ikwhan Nanda
+- NIM: 241126
+- IFB5J
